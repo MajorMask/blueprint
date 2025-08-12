@@ -1,4 +1,4 @@
-# BLUEPRINT
+<img width="4824" height="1264" alt="image" src="https://github.com/user-attachments/assets/e2179798-fc5e-43d2-b8b6-27848236b65c" /># BLUEPRINT
 
 AI-powered knowledge discovery for Aaltoes documents.
 
@@ -38,11 +38,14 @@ Ask questions about Aaltoes and get AI answers based on real documents. The app 
 
 ## How it works
 
+
 1. You ask a question about Aaltoes
 2. App searches document database using AI
 3. Shows you relevant documents with links
 4. AI generates answer based on those documents
 5. Response streams in real-time with clickable links
+
+<img width="4824" height="1264" alt="image" src="https://github.com/user-attachments/assets/cdcd552b-2de7-49e1-a742-c1a33068fd5d" />
 
 ## Tech stack
 
