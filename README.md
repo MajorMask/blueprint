@@ -38,6 +38,9 @@ Ask questions about Aaltoes and get AI answers based on real documents. The app 
 
 ## How it works
 
+<img width="4824" height="1264" alt="image" src="https://github.com/user-attachments/assets/0ab75bd4-97b7-43e1-be68-cb2751d4112f" />
+
+
 1. You ask a question about Aaltoes
 2. App searches document database using AI
 3. Shows you relevant documents with links
