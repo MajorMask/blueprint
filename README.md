@@ -38,8 +38,7 @@ Ask questions about Aaltoes and get AI answers based on real documents. The app 
 
 ## How it works
 
-<img width="2412" height="691" alt="image" src="https://github.com/user-attachments/assets/392fd07c-8a04-4da6-a8eb-168cbf0d3473" />
-
+![alt text](diagram-export-13-08-2025-11_49_25.svg)
 
 
 1. You ask a question about Aaltoes
